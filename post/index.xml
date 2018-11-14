@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Masahiro Endo</title>
+    <link>https://speedstar18fct.github.io/post/</link>
+    <description>Recent content in Posts on Masahiro Endo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Nov 2018 12:54:36 +0900</lastBuildDate>
+    
+	<atom:link href="https://speedstar18fct.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>はじめまして</title>
+      <link>https://speedstar18fct.github.io/post/test/</link>
+      <pubDate>Thu, 08 Nov 2018 12:54:36 +0900</pubDate>
+      
+      <guid>https://speedstar18fct.github.io/post/test/</guid>
+      <description>はじめまして。 現在フリーランスで活動中のWebエンジニアの遠藤です。
+この度ホームページを立ち上げました。 宜しくお願い致します。</description>
+    </item>
+    
+  </channel>
+</rss>
