@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Masahiro Endo</title>
+    <link>https://speedstar18fct.github.io/service/</link>
+    <description>Recent content in Services on Masahiro Endo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Nov 2018 22:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://speedstar18fct.github.io/service/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>経歴</title>
+      <link>https://speedstar18fct.github.io/service/career/</link>
+      <pubDate>Tue, 13 Nov 2018 22:00:00 +0900</pubDate>
+      
+      <guid>https://speedstar18fct.github.io/service/career/</guid>
+      <description>&lt;p&gt;早稲田大学社会科学部卒業後、広告代理店での営業マンを経て30代でエンジニアへ。
+PHPを中心に各種Webサービスの開発、保守、運用を担当。&lt;/p&gt;
+
+&lt;p&gt;またマネジメントやヒューマンスキル教育も行う。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>スキル</title>
+      <link>https://speedstar18fct.github.io/service/skill/</link>
+      <pubDate>Tue, 13 Nov 2018 22:00:00 +0900</pubDate>
+      
+      <guid>https://speedstar18fct.github.io/service/skill/</guid>
+      <description>&lt;h4 id=&#34;言語&#34;&gt;言語&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;PHP&lt;/li&gt;
+&lt;li&gt;HTML&lt;/li&gt;
+&lt;li&gt;CSS&lt;/li&gt;
+&lt;li&gt;Javascript&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;li&gt;Perl&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>マインド</title>
+      <link>https://speedstar18fct.github.io/service/mind/</link>
+      <pubDate>Tue, 13 Nov 2018 22:00:00 +0900</pubDate>
+      
+      <guid>https://speedstar18fct.github.io/service/mind/</guid>
+      <description>&lt;h4 id=&#34;挑戦しないで後悔するよりも挑戦して後悔する&#34;&gt;挑戦しないで後悔するよりも挑戦して後悔する&lt;/h4&gt;
+
+&lt;p&gt;せっかく一度きりの人生なのだから、自分が興味を持ったことに関して挑戦しないで後悔するぐらいなら挑戦して後悔したいと考えながら行動しています。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
